@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m interested in web development and compititive programming.
 - 👯 I’m looking to collaborate with other content creators
-- 📬 How to reach me- komaldeegwal2@gmail
+- 📬 How to reach me- komaldeegwal2@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
