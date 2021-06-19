@@ -1,5 +1,6 @@
-<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">!It's Komal  </h1>
+<h1 align="center">Hola<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">!It's Komal  </h1>
 
+<img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
 - 🔭 i'm currently exploring new things or technical stuff
 - 🌱 I’m currently learning everything 🤣
