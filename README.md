@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning everything 🤣
 - 👀 I’m interested in web development and compititive programming.
 - 👯 I’m looking to collaborate with other content creators
+- 📬 How to reach me- komaldeegwal2@gmail
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
 ### Connect with me:
 
-[<img align="left" alt="Komal.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Komal | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 [<img align="left" alt="Komal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Komal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Komal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
