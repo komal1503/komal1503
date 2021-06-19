@@ -3,8 +3,7 @@
 
 - 🔭 i'm currently exploring new things or technical stuff
 - 🌱 I’m currently learning everything 🤣
-- 👀 I’m interested in web development and compititive programming.
-- 👯 I’m looking to collaborate with other content creators
+- 👀 I’m interested in web development,AI/ML and compititive programming.
 - 📬 How to reach me- komaldeegwal2@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 
