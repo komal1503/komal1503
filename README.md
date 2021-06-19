@@ -1,4 +1,5 @@
-### Hi there, I'm Komal - 👋
+<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">!It's Komal  </h1>
+
 
 - 🔭 i'm currently exploring new things or technical stuff
 - 🌱 I’m currently learning everything 🤣
@@ -10,23 +11,16 @@
 ### Connect with me:
 
 
-[<img align="left" alt="Komal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Komal | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Komal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center" >
+	<a href="https://github.com/komal1503"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/komal-deegwal-35b31a206"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/komal15012003/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://medium.com/@komal1503"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/goodnotes.png"/></a>
+	
+</p>
 
-<br />
-
-[twitter]: https://twitter.com/Komal35484217?s=09
-[instagram]: https://www.instagram.com/komal15012003/
-[linkedin]: https://www.linkedin.com/in/komal-deegwal-35b31a206
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
-
-<a href="https://github.com/komal">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal&show_icons=true&theme=light&line_height=27" alt="komal's github stats"/>
+<a href="https://github.com/komal1503">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal1503&show_icons=true&theme=light&line_height=27" alt="komal's github stats"/>
 </a>
 
 
