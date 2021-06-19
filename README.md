@@ -1,4 +1,4 @@
-### Hi there, I'm Komal - [website] 👋
+### Hi there, I'm Komal - 👋
 
 - 🔭 i'm currently exploring new things or technical stuff
 - 🌱 I’m currently learning everything 🤣
