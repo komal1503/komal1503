@@ -23,6 +23,8 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal1503&show_icons=true&theme=light&line_height=27" alt="komal's github stats"/>
 </a>
 
+
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=komal1503&layout=compact)
 ## Languages and Tools I know:
 
 <p align="center">
