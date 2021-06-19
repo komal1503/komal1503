@@ -24,6 +24,19 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
+
+<a href="https://github.com/komal">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=komal&show_icons=true&theme=light&line_height=27" alt="komal's github stats"/>
+</a>
+
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
+
+
 <!---
 komal1503/komal1503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
