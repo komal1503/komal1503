@@ -2,12 +2,12 @@
 
 <img align="right" width="50%" src="https://user-images.githubusercontent.com/54095539/103103952-894d4980-464a-11eb-8670-5b026829077b.png">
 
-- 🔭 i'm currently exploring new things or technical stuff
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Love to explore and Contribute to new Projects.
+- 🌱 Stability is the source of success
 - 👀 I’m interested in web development,AI/ML and compititive programming.
 - 📬 How to reach me- komaldeegwal2@gmail.com
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-
+- 🥅 2024 Goals: Give more CP contest , Learn Different Technologies and contribute more on projects.
+.
 ### Connect with me:
 
 
